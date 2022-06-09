@@ -39,4 +39,6 @@ Out of the 38,010 reviews
 
 ## Summary: 
 
-With this dataset, there doesn't seem to be a positivity bias for reviews in the Vine program. Only a third of the reviews were rated 5-star. This doesn't necessarily mean that only 5-stars reviews are positive. This could be expanded to include reviews that are 4-star reviews. If 4-stars were included in this review, then it could increase the percentage of 38.2% to a higher amount. 
+With this dataset, there doesn't seem to be a positivity bias for reviews in the Vine program. Only a third of the reviews were rated 5-star. Compared to the non-Vine users, a little more than half of the non-vine users gave the product a 5-star review. This could mean that the vine user put more effort and thought process into the review, which gives them a more honest review compared to the non-vine users. 
+
+This analysis only uses 5-star reviews as positive reviews. This could be expanded to include reviews that are 4-star reviews, which are sometimes considered as a positive reviews. If this is the case, the 38.2% would increase higher, which could make this into a positivity bias.
